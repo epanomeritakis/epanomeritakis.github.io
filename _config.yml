@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : ""
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "Cambridge, MA"
   employer         : "Harvard University"
   uri              : # epanomeritakis.github.io
